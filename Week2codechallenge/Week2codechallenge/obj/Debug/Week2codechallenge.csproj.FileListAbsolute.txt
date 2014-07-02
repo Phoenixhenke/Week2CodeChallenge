@@ -1,0 +1,6 @@
+c:\users\technologist\documents\visual studio 2012\Projects\Week2codechallenge\Week2codechallenge\bin\Debug\Week2codechallenge.exe.config
+c:\users\technologist\documents\visual studio 2012\Projects\Week2codechallenge\Week2codechallenge\bin\Debug\Week2codechallenge.exe
+c:\users\technologist\documents\visual studio 2012\Projects\Week2codechallenge\Week2codechallenge\bin\Debug\Week2codechallenge.pdb
+c:\users\technologist\documents\visual studio 2012\Projects\Week2codechallenge\Week2codechallenge\obj\Debug\Week2codechallenge.csprojResolveAssemblyReference.cache
+c:\users\technologist\documents\visual studio 2012\Projects\Week2codechallenge\Week2codechallenge\obj\Debug\Week2codechallenge.exe
+c:\users\technologist\documents\visual studio 2012\Projects\Week2codechallenge\Week2codechallenge\obj\Debug\Week2codechallenge.pdb
